@@ -1,3 +1,12 @@
+# ComfyUI_RH_LLM_API_For_Strata
+
+## Strata Support
+
+* **Thinking Level**: `none / low / medium / high` can be selected for Strata's `reasoning_effort`.
+* **Auto Unload**: optionally unloads the Strata model after inference to release VRAM.
+* **Batch Images**: supports multiple images as a single `IMAGE` batch input.
+
+
 # ComfyUI_RH_LLM_API
 **Very easy to use. LLM DeepSeek, OpenAI API compatible plugin**
 ## 
